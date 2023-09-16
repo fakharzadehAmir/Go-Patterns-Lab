@@ -15,9 +15,7 @@ func GetInstance(newData string) *DpSingleton {
 	if instance == nil {
 		checkOnce.Do(func() {
 			if instance == nil {
-				instance = &DpSingleton{
-					data: newData,
-				}
+				instance = &DpSingleton{data: newData}
 			}
 		})
 	}
