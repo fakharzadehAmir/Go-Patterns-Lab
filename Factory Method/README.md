@@ -48,4 +48,4 @@ To apply the Factory Method pattern, follow these steps:
 ## Diagram
 This is the UML diagram of factory method implemented in this go package.  
 
-![Factory Method.jpeg](Factory Method.jpeg)
+![Factory Method.jpeg](Factory%20Method.jpeg)![Factory Method.jpeg](Factory Method.jpeg)
