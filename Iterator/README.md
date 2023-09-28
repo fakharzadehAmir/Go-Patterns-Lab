@@ -43,3 +43,7 @@ In the provided Go code example:
 - `MenuItem` represents an individual menu item with attributes like name, description, and price.
 
 The code demonstrates how to implement the Iterator pattern to traverse a collection of menu items, ensuring that the underlying structure of the collection is encapsulated, and client code can iterate through the items without knowing the details of the menu's internal representation.  
+
+## Diagram  
+
+![Iterator.jpeg](Iterator.jpeg)
